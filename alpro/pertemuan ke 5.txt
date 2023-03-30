@@ -1,0 +1,12 @@
+for i in range (start, stop, step)
+range itu defaultnyna naik 1
+jika: for i in range (saru parameter) ---> default mulai dari 0 hingga parameter kurang 1
+continnue ---> skip, jika memenuhi
+
+menggunakan while jika tidak diketahui mau mengulang seberapa banyak.
+
+struktur while:
+    ada kondisi awal
+    kondisi akhir
+    counter (penambahan)
+    statements

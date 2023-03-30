@@ -1,0 +1,3 @@
+user menginput n 10 
+output:
+#

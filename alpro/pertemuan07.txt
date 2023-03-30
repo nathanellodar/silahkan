@@ -1,0 +1,1 @@
+string merupakan tipe data yang sangat spesial
